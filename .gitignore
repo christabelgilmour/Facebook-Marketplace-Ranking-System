@@ -1,0 +1,7 @@
+/cleaned_images/
+/model_evaluation/
+/data/
+/images/
+/final_model/
+/__pycache__/
+/*.pem
